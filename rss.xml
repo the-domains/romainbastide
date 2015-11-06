@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RomainBastide]]></title>
         <description><![CDATA[RomainBastide]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/romainbastide/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 17:42:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 Nov 2015 09:41:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/romainbastide/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who am I]]></title>
+            <description><![CDATA[<article><h1>Who am I</h1><p>A brief description of who I think I am...</p></article>]]></description>
+            <link>https://thegrid.ai/romainbastide/who-am-i/index.html</link>
+            <guid isPermaLink="false">0d5f78da-06c7-4bcb-bf62-f6829a789584</guid>
+            <pubDate>Fri, 06 Nov 2015 09:40:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome Home]]></title>
             <description><![CDATA[<article><h1>Welcome Home</h1><p>A fresh start is waiting for you.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69aa374b-c90c-449e-b1f5-4556611077dd.jpg"></article>]]></description>
-            <link>undefinedwelcome-home/index.html</link>
+            <link>https://thegrid.ai/romainbastide/welcome-home/index.html</link>
             <guid isPermaLink="false">47aecb86-8683-4405-8ea0-ab3eaa010e99</guid>
             <pubDate>Thu, 05 Nov 2015 17:42:15 GMT</pubDate>
         </item>
